@@ -6,8 +6,6 @@
 <a href="https://linkedin.com/in/matissoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matissoz" height="30" width="40" /></a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/latvia_private/matissoz.svg)](https://user-badge.committers.top/latvia_private/matissoz)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matissoz&show_icons=true&locale=en&layout=compact" alt="matissoz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matissoz&show_icons=true&locale=en" alt="matissoz" /></p>
